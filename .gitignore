@@ -1,4 +1,5 @@
 vendor/
+UImocks
 node_modules/
 npm-debug.log
 
